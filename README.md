@@ -2,7 +2,7 @@
   <br>
   <a href="https://www.youtube.com/watch?v=pDmEYRhyusU&list=PLY-ecO2csVHeKaBI7lAM1jbIPU8K6fUxY"><img src="https://niranjan4r.github.io/Crossroads/img/pic1.JPG" alt="100k Coding Challenge" width="200" style="border-radius:10px"></a>
   <br>
-  100k Coding Challenge
+  100Day Coding Challenge
   <br>
 </h1>
 
