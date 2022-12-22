@@ -1,58 +1,27 @@
-<h1 align="center">
-  <br>
-  <a href="https://www.youtube.com/watch?v=pDmEYRhyusU&list=PLY-ecO2csVHeKaBI7lAM1jbIPU8K6fUxY"><img src="https://niranjan4r.github.io/Crossroads/img/pic1.JPG" alt="100k Coding Challenge" width="200" style="border-radius:10px"></a>
-  <br>
-  100Day Coding Challenge
-  <br>
-</h1>
-
-<h4 align="center">This is my perosnal worksheets that I've practiced in my early stage of learning basic Coding. This covers progamming language like JAVA. Thanks to <a href="https://youtu.be/i9uAgkKEuNU/" target="_blank">Academind
-</a> who helped me with their valuable resources.</h4>
-
-<p align="center">
-  <a href="#🛠-overview">Overview</a> •
-  <a href="#🚀-built-with">Build with</a> •
-  <a href="#👉🏼-links">Live links</a> •
-  <a href="#🧑🏽‍💻-how-to-contribute">How to contribute</a>
-</p>
-<h5 align="center">Don't forget to give a ⭐️ </h5>
-<hr>
-
-![screenshot](Assets/preview.gif)
 
 
-## 🛠 Overview
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Completely begginer friendly.
-- Basic coding practices.
-- Based on `JAVA` Programming language.
-- More than 100s of coding files.
-- Covered Maximum coding basics which I've learned.
-- Included Daily tasks file for references.
-- Covered a simple project, Calculator build with JAVA.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shivamusic__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linktr.ee/shivanshu01) 
 
-## 🚀 Built with
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivanshunigam01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivanshunigam01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshunigam01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![JAVA][JAVA]][JAVA-url]
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivanshunigam01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 👉🏼 keep connected 
+### ✍️ Random Devloper Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h6>
+### 😂 Random Devloper Meme
+<body> 
+Two bytes meet.  The first byte asks, “Are you ill?”
+The second byte replies, “No, just feeling a bit off.”
+</body>
 
-<i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
-<br>[LinkedIn]:(https://www.linkedin.com/in/shivanshu-nigam-9a3223219)</h6>
-
-<hr>
-
-## 🧑🏽‍💻 How to contribute
-
-You can also contribute🚀 to this repository for new coding files and updates.
-
-
-
-
-<h3 align="center"><i><q>I came in with near zero programming knowledge and halfway in, I’m quite confident of what I can achieve...#Special thanks to VIT BHOPAL#2022MCAROCKS</q></i></h3>
-
-[JAVA]: https://img.shields.io/badge/java-F8981C?style=for-the-badge&logo=java&logoColor=0456F3
-[JAVA-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-
+---
+[![](https://visitcount.itsvg.in/api?id=shivanshunigam01&icon=2&color=0)](https://visitcount.itsvg.in)
