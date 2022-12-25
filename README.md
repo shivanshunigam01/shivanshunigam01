@@ -25,4 +25,4 @@ The second byte replies, “No, just feeling a bit off.”
 </body>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shivanshunigam01&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shivanshunigam01&label=Profile%20Views%20&color=5&pretty=false)](https://visitcount.itsvg.in)
