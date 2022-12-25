@@ -6,7 +6,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shivamusic__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linktr.ee/shivanshu01) 
 
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2zCxbDkJC9g6yPrOhPdoLa&ust=1672080822896000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCV1c64lfwCFQAAAAAdAAAAABAQ")
+![giphy](https://user-images.githubusercontent.com/102843159/209479331-21427865-a25d-483e-860e-294f0da989ae.gif)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivanshunigam01&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
