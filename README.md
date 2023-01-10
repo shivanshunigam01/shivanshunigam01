@@ -7,10 +7,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shivamusic__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linktr.ee/shivanshu01) 
 
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivanshunigam01&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivanshunigam01&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshunigam01&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shivanshunigam01&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivanshunigam01&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshunigam01&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivanshunigam01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -25,5 +27,6 @@ Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
 </body>
 
-----
-[![](https://visitcount.itsvg.in/api?id=shivanshunigam01&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=shivanshunigam01&icon=0&color=4)](https://visitcount.itsvg.in)
+
