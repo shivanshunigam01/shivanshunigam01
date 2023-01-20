@@ -1,6 +1,5 @@
-![logo](https://github.com/shivanshunigam01/shivanshunigam01/blob/main/Pink%20%26%20Blue%20Futuristic%20Gaming%20Channel%20Youtube%20Intro.gif)
 
-
+https://user-images.githubusercontent.com/102843159/213818238-699aa360-c8df-49a4-a481-d33f1a03be52.mp4
 
 
 
