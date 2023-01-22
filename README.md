@@ -1,4 +1,4 @@
-
+![Visitor Count]("https://profile-counter.glitch.me/shivanshunigam01/count.svg")
 https://user-images.githubusercontent.com/102843159/213818238-699aa360-c8df-49a4-a481-d33f1a03be52.mp4
 
 
@@ -6,6 +6,8 @@ https://user-images.githubusercontent.com/102843159/213818238-699aa360-c8df-49a4
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
