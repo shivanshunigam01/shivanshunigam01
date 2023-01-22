@@ -15,4 +15,4 @@
             user_name: shivanshunigam01
             # Text on contribution graph 
             text: SHIVANSHU
-       - uses: shivanshunigam01/simple-push-action@v1
+       - uses: shivanshu/simple-push-action@v1
