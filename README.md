@@ -53,6 +53,6 @@ The second byte replies, “No, just feeling a bit off.”
 ---
 [![](https://visitcount.itsvg.in/api?id=shivanshunigam01&icon=0&color=4)](https://visitcount.itsvg.in)
 
-![GITART](main.svg)
+
 
 
