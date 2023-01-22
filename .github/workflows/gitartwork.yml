@@ -9,10 +9,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
+       - uses: shivanshunigam01/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: shivanshunigam01
             # Text on contribution graph 
             text: SHIVANSHU
-       - uses: jasineri/simple-push-action@v1
+       - uses: shivanshunigam01/simple-push-action@v1
