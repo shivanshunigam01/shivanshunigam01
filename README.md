@@ -48,8 +48,6 @@ Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
 </body>
 
----
-[![](https://visitcount.itsvg.in/api?id=shivanshunigam01&icon=0&color=4)](https://visitcount.itsvg.in)
 
 
 ### Watch my contribution graph eaten by the snake🐍   
