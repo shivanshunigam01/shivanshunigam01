@@ -14,10 +14,9 @@ https://user-images.githubusercontent.com/102843159/213930446-9181a5fd-b06a-43a9
 
 
 
+<img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/102843159/221010425-ee2c450e-54d0-4808-8258-0c2cef3b10c3.jpg" />
 
 
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 # 💻 Tech Stack:
