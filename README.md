@@ -8,7 +8,10 @@
 
 <br>
 
-https://user-images.githubusercontent.com/102843159/213930446-9181a5fd-b06a-43a9-927a-1836b68cf67d.mp4
+ <video  autoplay loop muted plays-inline class="back-video">
+        <source src="https://user-images.githubusercontent.com/102843159/213930446-9181a5fd-b06a-43a9-927a-1836b68cf67d.mp4">
+    </video>
+
 
 <br>
 
