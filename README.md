@@ -5,8 +5,7 @@
 
 <br>
  https://user-images.githubusercontent.com/102843159/213930446-9181a5fd-b06a-43a9-927a-1836b68cf67d.mp4
-  
-
+<br>
 
 <br>
 
@@ -24,7 +23,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shivamusic__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linktr.ee/shivanshu01) 
-
 
 
 # 📊 GitHub Stats:
